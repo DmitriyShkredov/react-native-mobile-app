@@ -4,7 +4,7 @@
 
 ### branch dev_1 - #1: React Native | Настройка рабочего окружения | Hello world
 
-### branch dev_1 - #2: React Native | Базовые компоненты | View Text Image
+### branch dev_2 - #2: React Native | Базовые компоненты | View Text Image
 
 ### `npm install`
 
